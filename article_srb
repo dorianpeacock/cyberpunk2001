@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<!-- This is the header -->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NU-LONDON DAILY NEWS</title>
+<h1 style="font-family:Times New Roman;">NU-LONDON DAILY NEWS</h1>
+
+<!-- scrollbar -->
+<marquee behavior="scroll" direction="left" style="background-color:aquamarine;"> <b>BREAKING NEWS: THE FITNESSGRAM PACER TEST IS A MULTI-STAGE AEROBIC CAPACITY TEST THAT PROGRESSIVELY GETS MORE DIFFICULT AS IT CONTINUES.</b></marquee>
+
+<!-- CSS -->
+<style>
+/* Style the top navigation bar */
+.navbar {
+  overflow: hidden;
+  background-color: aquamarine;
+}
+
+/* Style the navigation bar links */
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+</style>
+</head>
+
+<body style="font-family:Times New Roman;font-size:13pt;" background="nldn_bg.png">
+
+<!-- navbar links -->
+<div class="navbar a">
+  <a href="#">About</a>
+  <a href="#">Contact</a>
+  <a href="#">What's on</a>
+</div>
+
+<a href="starzyraidboss.html">You can find Starzy's website here.</a>
+
+</body>
+
